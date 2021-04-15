@@ -1,0 +1,12 @@
+input{
+    color: blue;
+}
+
+.ColorFondo{
+    background-color: darkred;
+
+}
+
+#fecha{
+    width: 250px;
+}
